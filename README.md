@@ -10,9 +10,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-Sd)](https://github.com/anuraghazra/github-readme-stats)
 
 # ――――――――――――――――
-
-[![VS](https://img.shields.io/badge/Visual_Studio-ffffff?style=for-the-badge&logo=visual%20studio&logoColor=black)](https://visualstudio.microsoft.com/pt-br/downloads/)
-[![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-ffffff?style=for-the-badge&logo=visual%20studio%20code&logoColor=black)](https://code.visualstudio.com/)
-[![GODOT](https://img.shields.io/badge/Godot_Engine-ffffffcf?style=for-the-badge&logo=GodotColor=white)](https://godotengine.org/)
-
-# ――――――――――――――――
