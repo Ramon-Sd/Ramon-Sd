@@ -1,6 +1,10 @@
+<br>
+
 <h1 align="left">
     Hello there, I'm Ramon <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
 </h1>
+
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramon-Sd&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
