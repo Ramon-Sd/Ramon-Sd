@@ -10,7 +10,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-Sd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me:
+## Contact
+
+You can get in touch with me through the following means:
+
+- Instagram: **@_ramon_sd**
+- Discord: **! Ramon#9008**
+<br>
 
 [![instagram](https://img.shields.io/badge/|-Instagram.-ffffff?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/_ramon_sd/)
 [![discord](https://img.shields.io/badge/|-Discord.-ffffff?style=for-the-badge&logo=Discord&logoColor=hightlight)](https://top.gg/user/365542139201011712)
