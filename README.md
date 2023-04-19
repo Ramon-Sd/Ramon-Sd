@@ -1,28 +1,66 @@
+<!-- Title -->
+<h1 align="center">Hello there, I'm Ramon <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<!-- Introduction -->
+<p align="center">
+  Hi there! I'm Ramon, a programmer passionate about coding and<br>open source.I'm always on the lookout for new challenges and opportunities<br>to learn and grow as a developer. Here, you can find some of my projects.
+</p>
+
 <br>
 
-<h1 align="left">
-    Hello there, I'm Ramon <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
-</h1>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramon-Sd&show_icons=true&theme=dark" alt="Ramon GitHub Stats" />
+</p>
 
-<br>
+<!-- Skills -->
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp" />
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramon-Sd&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Projects
+<h2 align="center">Projects</h2>
+<ul>
+  <li>
+    <a href="...">...</a> - ...
+  </li>
+  <li>
+    <a href="...">...</a> - ...
+  </li>
+ 
+</ul>
+-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-Sd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact
-
-You can get in touch with me through the following means:
-
-- Instagram: **@_ramon_sd**
-- Discord: **! Ramon#9008**
-<br>
-
-[![instagram](https://img.shields.io/badge/|-Instagram.-ffffff?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/_ramon_sd/)
-[![discord](https://img.shields.io/badge/|-Discord.-ffffff?style=for-the-badge&logo=Discord&logoColor=hightlight)](https://top.gg/user/365542139201011712)
-
+<!-- Contact -->
+<h2 align="center">Contact</h2>
+<p align="center">
+  You can reach me through the following means:
+</p>
+<p align="center">
+  <!---
+  <a href="...">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="...">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  --->
+  <a href="https://www.instagram.com/_ramon_sd/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://top.gg/user/365542139201011712">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 <br><br>
-[![GitHub](https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DRamon-Sd&longCache=true)](https://github.com/Ramon-Sd)
-![](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ramon-Sd)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/Ramon-Sd&color=Chartreuse)
+
+<!-- Footer -->
+<h1 align="center">
+    :D
+</h1>
+<p align="center">
+  Thank you for stopping by my profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
+</p>
