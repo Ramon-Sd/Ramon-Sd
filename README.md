@@ -55,12 +55,3 @@
   </a>
 </p>
 
-<br><br>
-
-<!-- Footer -->
-<h1 align="center">
-    :D
-</h1>
-<p align="center">
-  Thank you for stopping by my profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
-</p>
