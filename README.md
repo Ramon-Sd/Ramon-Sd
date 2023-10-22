@@ -1,11 +1,3 @@
-<!-- Title -->
-<h1 align="center">Hello there, I'm Ramon <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-<!-- Introduction -->
-<p align="center">
-  Hi there! I'm Ramon, a programmer passionate about coding and<br>open source.I'm always on the lookout for new challenges and opportunities<br>to learn and grow as a developer. Here, you can find some of my projects.
-</p>
-
 <!-- Contact -->
 <h2 align="center">Contact</h2>
 <p align="center">
@@ -27,7 +19,7 @@
 </p>
 
 <!-- Skills -->
-<h2 align="center">{ Skills }</h2>
+<h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp" />
