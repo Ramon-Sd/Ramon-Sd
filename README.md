@@ -10,4 +10,5 @@
   <img src="https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=csharp&logoColor=black" alt="CSharp" />
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=cpp&logoColor=black" alt="C++" />
 </p>
