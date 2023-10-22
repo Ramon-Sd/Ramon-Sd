@@ -4,7 +4,7 @@
 </p>
 
 <!-- Skills -->
-<h2 align="center">S k i l l s</h2>
+<h2 align="center">S K I L L S</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp" />
