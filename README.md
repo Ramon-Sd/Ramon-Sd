@@ -18,9 +18,6 @@
 <!-- Contact -->
 <h2 align="center">Contact</h2>
 <p align="center">
-
-</p>
-<p align="center">
   <a href="https://www.instagram.com/_ramon_sd/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
